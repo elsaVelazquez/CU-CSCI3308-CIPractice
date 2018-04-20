@@ -72,4 +72,244 @@ compiler: -gcc
 [36mscript[m[35m:[m make
 [36msudo[m[35m:[m enabled
 [36mcompiler[m[35m:[m gcc
-[1m[34m~                                                                                                                 [7;1H~                                                                                                                 [8;1H~                                                                                                                 [9;1H~                                                                                                                 [10;1H~                                                                                                                 [11;1H~                                                                                                                 [12;1H~                                                                                                                 [13;1H~                                                                                                                 [14;1H~                                                                                                                 [15;1H~                                                                                                                 [16;1H~                                                                                                                 [17;1H~                                                                                                                 [18;1H~                                                                                                                 [19;1H~                                                                                                                 [20;1H~                                                                                                
+[1m[34m~                                                                                                                 [7;1H~                                                                                                                 [8;1H~                                                                                                                 [9;1H~                                                                                                                 [10;1H~                                                                                                                 [11;1H~                                                                                                                 [12;1H~                                                                                                                 [13;1H~                                                                                                                 [14;1H~                                                                                                                 [15;1H~                                                                                                                 [16;1H~                                                                                                                 [17;1H~                                                                                                                 [18;1H~                                                                                                                 [19;1H~                                                                                                                 [20;1H~                                                                                                                 [21;1H~                                                                                                                 [22;1H~                                                                                                                 [23;1H~                                                                                                                 [24;1H~                                                                                                                 [25;1H~                                                                                                                 [26;1H~                                                                                                                 [27;1H~                                                                                                                 [28;1H~                                                                                                                 [29;1H~                                                                                                                 [30;1H~                                                                                                                 [31;1H~                                                                                                                 [32;1H~                                                                                                                 [33;1H~                                                                                                                 [34;1H~                                                                                                                 [35;1H~                                                                                                                 [m[36;97H1,1[11CAll[1;1H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[36;97H2[2;1H[?12l[?25h[?25l[36;97H3[3;1H[?12l[?25h[?25l[36;97H2[2;1H[?12l[?25h[?25l[36;1H[1m-- INSERT --[m[36;13H[K[36;97H2,1[11CAll[2;1H[?12l[?25h[?25l[36;97H3[3;1H[?12l[?25h[?25l[36;99H2[3;2H[?12l[?25h[?25l[36;99H3[3;3H[?12l[?25h[?25l[36;99H4[3;4H[?12l[?25h[?25l[36;99H5[3;5H[?12l[?25h[?25l[36;99H6[3;6H[?12l[?25h[?25l[36;99H7[3;7H[?12l[?25h[?25l[36;99H8[3;8H[?12l[?25h[?25l[36;99H9[3;9H[?12l[?25h[?25l[36;99H10[3;10H[?12l[?25h[?25l[36;100H1[3;11H[?12l[?25h[?25l[36;100H2[3;12H[?12l[?25h[?25l[36;100H3[3;13H[?12l[?25h[?25l[4;35r[4;1H[L[1;36r[36;97H[K[36;97H4,1[11CAll[4;1H[?12l[?25h[?25l[36;99H2-9[4;9H[?12l[?25h[?25lm[36;99H3-10[4;10H[?12l[?25h[?25la[36;99H4-11[4;11H[?12l[?25h[?25lk[36;99H5-12[4;12H[?12l[?25h[?25le[36;99H6-13[4;13H[?12l[?25h[?25l[36;99H7-14[4;14H[?12l[?25h[?25lt[36;99H8-15[4;15H[?12l[?25h[?25le[36;99H9-16[4;16H[?12l[?25h[?25ls[36;99H10-17[4;17H[?12l[?25h[?25lt[36;100H1-18[4;18H[?12l[?25h[?25l`[36;100H2-19[4;19H[?12l[?25h[36;1H[K[4;18H[?25l[36;97H4,11-18[7CAll[4;18H[?12l[?25h[?25l[36;100H0-17[4;17H[?12l[?25h[?25l[36;99H9-16 [4;16H[?12l[?25h[?25l[36;99H10-17[4;17H[?12l[?25h[?25l[36;100H1-18[4;18H[?12l[?25h[?25l[36;1H[1m-- INSERT --[m[36;97H[K[36;97H4,11-18[7CAll[4;18H[?12l[?25h[?25l[36;100H2-19[4;19H[?12l[?25h[?25l[4;18H[K[36;100H1-18[4;18H[?12l[?25h[36;1H[K[4;17H[?25l[36;97H4,10-17[7CAll[4;17H[?12l[?25h[?25l[36;97H[K[36;1H:[?12l[?25hx[?25l[?12l[?25h[?25l".travis.yml" [dos] 6L, 88C written
+[?1l>[?12l[?25h[?1049l]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add. [K[K .
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git commit -m "travis test"
+[master bbacd6d] travis test
+ 2 files changed, 53 insertions(+), 1 deletion(-)
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': elsaVelazquez
+Password for 'https://elsaVelazquez@github.com': 
+Counting objects: 4, done.
+Delta compression using up to 2 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 2.44 KiB | 0 bytes/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/elsaVelazquez/CU-CSCI3308-CIPractice.git
+   4fb56f1..bbacd6d  master -> master
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add .
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git commit -m "[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmake test
+./geometry_test.c
+make: execvp: ./geometry_test.c: Permission denied
+Makefile:34: recipe for target 'test' failed
+make: *** [test] Error 127
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ chmod 755 geometer[K[K[K[K[Kmetry_test.v[Kc
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make test
+./geometry_test.c
+./geometry_test.c: 1: ./geometry_test.c: /bin: Permission denied
+./geometry_test.c: 2: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 3: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 4: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 5: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 6: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 7: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 8: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 9: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 10: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 11: ./geometry_test.c: */: not found
+./geometry_test.c: 18: ./geometry_test.c: /bin: Permission denied
+./geometry_test.c: 19: ./geometry_test.c: Syntax error: word unexpected (expecting ")")
+Makefile:34: recipe for target 'test' failed
+make: *** [test] Error 2
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make
+make: Nothing to be done for 'all'.
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ maek [K[K[K[K[Kmake clean
+rm -f *.o
+rm -f geometry_test
+rm -f *~
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make
+gcc -c -g -Wall -Wextra geometry_test.c -o geometry_test.o
+gcc -c -g -Wall -Wextra geometry.c -o geometry.o
+gcc -g -Wall -Wextra geometry_test.o geometry.o `pkg-config --libs check` -lm -o geometry_test
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make dep
+sudo apt-get install check
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+check is already the newest version (0.10.0-3).
+The following packages were automatically installed and are no longer required:
+  asciidoc attr binutils-dev cabal-install cdbs cmake cmake-data crash cu-cs-apt-other cu-cs-base-common
+  cu-cs-base-x cu-cs-csci-1300-common cu-cs-csci-1300-x cu-cs-csci-1310-common cu-cs-csci-1310-x
+  cu-cs-csci-2270-common cu-cs-csci-2270-x cu-cs-csci-2400-common cu-cs-csci-2400-x cu-cs-csci-3753
+  cu-cs-csci-4229 cu-cs-editors-common cu-cs-editors-x cu-cs-langs dblatex ddd dh-apparmor dh-systemd
+  dh-translations docbook-utils emacs freeglut3 freeglut3-dev geany geany-common geany-plugin-addons
+  geany-plugin-autoclose geany-plugin-automark geany-plugin-codenav geany-plugin-commander geany-plugin-ctags
+  geany-plugin-debugger geany-plugin-defineformat geany-plugin-devhelp geany-plugin-doc geany-plugin-extrasel
+  geany-plugin-gendoc geany-plugin-geniuspaste geany-plugin-git-changebar geany-plugin-insertnum
+  geany-plugin-latex geany-plugin-lipsum geany-plugin-lua geany-plugin-macro geany-plugin-markdown
+  geany-plugin-miniscript geany-plugin-multiterm geany-plugin-numberedbookmarks geany-plugin-overview
+  geany-plugin-pairtaghighlighter geany-plugin-pg geany-plugin-pohelper geany-plugin-prettyprinter
+  geany-plugin-prj geany-plugin-projectorganizer geany-plugin-py geany-plugin-scope geany-plugin-sendmail
+  geany-plugin-shiftcolumn geany-plugin-spellcheck geany-plugin-tableconvert geany-plugin-treebrowser
+  geany-plugin-updatechecker geany-plugin-vc geany-plugin-webhelper geany-plugin-xmlsnippets geany-plugins
+  geany-plugins-common gedit gedit-common gedit-plugins ghc ghc-doc gir1.2-git2-glib-1.0 gir1.2-gtksource-3.0
+  gir1.2-gucharmap-2.90 gir1.2-peas-1.0 gir1.2-zeitgeist-2.0 git git-doc git-man htop intltool kernel-common
+  kernel-package kernel-wedge kexec-tools libasound2-dev libattr1-dev libaudit-dev libblas-common libblas-dev
+  libblas3 libbsd-dev libbz2-dev libc++-dev libc++-helpers libc++1 libc++abi-dev libc++abi1 libcaca-dev libctpl2
+  libcurl4-doc libcurl4-openssl-dev libdbus-1-dev libdw-dev libdw1 libegl1-mesa-dev libelf-dev liberror-perl
+  libexpat1-dev libflac-dev libfuse-dev libgit2-24 libgit2-glib-1.0-0 libgles2-mesa-dev libglib2.0-dev
+  libgmp-dev libgmpxx4ldbl libhttp-parser2.1 libiberty-dev libice-dev libjavascriptcoregtk-1.0-0 libjpeg-dev
+  libjpeg-turbo8-dev libjpeg8-dev libjson-c-dev libjson0 libjson0-dev liblapack-dev liblapack3 liblinear3
+  liblldb-3.8 liblua5.1-0 liblua5.2-0 liblzma-dev libmad0-dev libmarkdown2 libmikmod-config libmikmod-dev
+  libmikmod3 libmirclient-dev libmircommon-dev libmircookie-dev libmircookie2 libmircore-dev libmotif-common
+  libncurses5-dev libnewt-dev libode-dev libode4 libogg-dev libpci-dev libpcre3-dev libpcre32-3 libpcrecpp0v5
+  libpeas-1.0-0 libpeas-1.0-0-python3loader libpeas-common libpng12-dev libportmidi0 libprotobuf-dev
+  libprotobuf9v5 libpulse-dev libpython-all-dev libpython-dev libpython2.7-dev libpython3-dev libpython3.5-dev
+  libqt5concurrent5 libqt5opengl5 libqt5opengl5-dev libqt5test5 libreadline-dev libreadline6-dev libsdl-image1.2
+  libsdl-mixer1.2 libsdl-mixer1.2-dev libsdl-ttf2.0-0 libsdl-ttf2.0-dev libsdl1.2-dev libsdl1.2debian
+  libsdl2-2.0-0 libsdl2-dev libsdl2-mixer-2.0-0 libsdl2-mixer-dev libsdl2-ttf-2.0-0 libsdl2-ttf-dev
+  libselinux1-dev libsepol1-dev libsgmls-perl libslang2-dev libsm-dev libsmpeg0 libsndfile1-dev libsndio-dev
+  libsndio6.1 libsp1c2 libssh2-1 libssl-dev libssl-doc libudev-dev libunwind-dev libunwind8 libunwind8-dev
+  libuptimed0 libvorbis-dev libwayland-bin libwayland-dev libwebkitgtk-1.0-0 libwebkitgtk-1.0-common
+  libxcursor-dev libxi-dev libxinerama-dev libxkbcommon-dev libxm4 libxrandr-dev libxrender-dev libxss-dev
+  libxt-dev libxv-dev libzeitgeist-2.0-0 linux-headers-4.10.0-28 linux-headers-4.10.0-28-generic
+  linux-headers-4.4.0-109 linux-headers-4.4.0-109-generic linux-image-4.10.0-28-generic
+  linux-image-4.4.0-109-generic linux-image-extra-4.10.0-28-generic linux-image-extra-4.4.0-109-generic lldb-3.8
+  lua-lpeg makedumpfile manpages-posix manpages-posix-dev mesa-utils-extra ndiff nmap openjdk-8-jdk
+  openjdk-8-jdk-headless pkg-config python-all python-all-dev python-bs4 python-decorator python-dev
+  python-html5lib python-imaging python-lldb-3.8 python-lxml python-numpy python-pil python-pip python-pip-whl
+  python-ply python-pygame python-scipy python-scour python-six python-virtualenv python-wheel python2.7-dev
+  python3-decorator python3-dev python3-gpgme python3-numpy python3-pip python3-ply python3-scipy
+  python3-virtualenv python3-wheel python3.5-dev qt5-default qt5-qmake qtbase5-dev qtbase5-dev-tools r-base
+  r-base-core r-base-dev r-base-html r-cran-boot r-cran-class r-cran-cluster r-cran-codetools r-cran-foreign
+  r-cran-kernsmooth r-cran-lattice r-cran-mass r-cran-matrix r-cran-mgcv r-cran-nlme r-cran-nnet r-cran-rpart
+  r-cran-spatial r-cran-survival r-doc-html r-recommended screen secure-delete sgmlspl sp sqlite3 ssh sshfs
+  texlive texlive-bibtex-extra texlive-luatex texlive-math-extra tmux tree uptimed virtualenv x11proto-randr-dev
+  x11proto-render-dev x11proto-scrnsaver-dev x11proto-video-dev x11proto-xinerama-dev xmlto xsltproc
+  zeitgeist-core zlib1g-dev zsh zsh-common
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 146 not upgraded.
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make
+make: Nothing to be done for 'all'.
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make test
+./geometry_test.c
+./geometry_test.c: 1: ./geometry_test.c: /bin: Permission denied
+./geometry_test.c: 2: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 3: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 4: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 5: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 6: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 7: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 8: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 9: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 10: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 11: ./geometry_test.c: */: not found
+./geometry_test.c: 18: ./geometry_test.c: /bin: Permission denied
+./geometry_test.c: 19: ./geometry_test.c: Syntax error: word unexpected (expecting ")")
+Makefile:34: recipe for target 'test' failed
+make: *** [test] Error 2
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make clean
+rm -f *.o
+rm -f geometry_test
+rm -f *~
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make dep
+sudo apt-get install check
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+check is already the newest version (0.10.0-3).
+The following packages were automatically installed and are no longer required:
+  asciidoc attr binutils-dev cabal-install cdbs cmake cmake-data crash cu-cs-apt-other cu-cs-base-common
+  cu-cs-base-x cu-cs-csci-1300-common cu-cs-csci-1300-x cu-cs-csci-1310-common cu-cs-csci-1310-x
+  cu-cs-csci-2270-common cu-cs-csci-2270-x cu-cs-csci-2400-common cu-cs-csci-2400-x cu-cs-csci-3753
+  cu-cs-csci-4229 cu-cs-editors-common cu-cs-editors-x cu-cs-langs dblatex ddd dh-apparmor dh-systemd
+  dh-translations docbook-utils emacs freeglut3 freeglut3-dev geany geany-common geany-plugin-addons
+  geany-plugin-autoclose geany-plugin-automark geany-plugin-codenav geany-plugin-commander geany-plugin-ctags
+  geany-plugin-debugger geany-plugin-defineformat geany-plugin-devhelp geany-plugin-doc geany-plugin-extrasel
+  geany-plugin-gendoc geany-plugin-geniuspaste geany-plugin-git-changebar geany-plugin-insertnum
+  geany-plugin-latex geany-plugin-lipsum geany-plugin-lua geany-plugin-macro geany-plugin-markdown
+  geany-plugin-miniscript geany-plugin-multiterm geany-plugin-numberedbookmarks geany-plugin-overview
+  geany-plugin-pairtaghighlighter geany-plugin-pg geany-plugin-pohelper geany-plugin-prettyprinter
+  geany-plugin-prj geany-plugin-projectorganizer geany-plugin-py geany-plugin-scope geany-plugin-sendmail
+  geany-plugin-shiftcolumn geany-plugin-spellcheck geany-plugin-tableconvert geany-plugin-treebrowser
+  geany-plugin-updatechecker geany-plugin-vc geany-plugin-webhelper geany-plugin-xmlsnippets geany-plugins
+  geany-plugins-common gedit gedit-common gedit-plugins ghc ghc-doc gir1.2-git2-glib-1.0 gir1.2-gtksource-3.0
+  gir1.2-gucharmap-2.90 gir1.2-peas-1.0 gir1.2-zeitgeist-2.0 git git-doc git-man htop intltool kernel-common
+  kernel-package kernel-wedge kexec-tools libasound2-dev libattr1-dev libaudit-dev libblas-common libblas-dev
+  libblas3 libbsd-dev libbz2-dev libc++-dev libc++-helpers libc++1 libc++abi-dev libc++abi1 libcaca-dev libctpl2
+  libcurl4-doc libcurl4-openssl-dev libdbus-1-dev libdw-dev libdw1 libegl1-mesa-dev libelf-dev liberror-perl
+  libexpat1-dev libflac-dev libfuse-dev libgit2-24 libgit2-glib-1.0-0 libgles2-mesa-dev libglib2.0-dev
+  libgmp-dev libgmpxx4ldbl libhttp-parser2.1 libiberty-dev libice-dev libjavascriptcoregtk-1.0-0 libjpeg-dev
+  libjpeg-turbo8-dev libjpeg8-dev libjson-c-dev libjson0 libjson0-dev liblapack-dev liblapack3 liblinear3
+  liblldb-3.8 liblua5.1-0 liblua5.2-0 liblzma-dev libmad0-dev libmarkdown2 libmikmod-config libmikmod-dev
+  libmikmod3 libmirclient-dev libmircommon-dev libmircookie-dev libmircookie2 libmircore-dev libmotif-common
+  libncurses5-dev libnewt-dev libode-dev libode4 libogg-dev libpci-dev libpcre3-dev libpcre32-3 libpcrecpp0v5
+  libpeas-1.0-0 libpeas-1.0-0-python3loader libpeas-common libpng12-dev libportmidi0 libprotobuf-dev
+  libprotobuf9v5 libpulse-dev libpython-all-dev libpython-dev libpython2.7-dev libpython3-dev libpython3.5-dev
+  libqt5concurrent5 libqt5opengl5 libqt5opengl5-dev libqt5test5 libreadline-dev libreadline6-dev libsdl-image1.2
+  libsdl-mixer1.2 libsdl-mixer1.2-dev libsdl-ttf2.0-0 libsdl-ttf2.0-dev libsdl1.2-dev libsdl1.2debian
+  libsdl2-2.0-0 libsdl2-dev libsdl2-mixer-2.0-0 libsdl2-mixer-dev libsdl2-ttf-2.0-0 libsdl2-ttf-dev
+  libselinux1-dev libsepol1-dev libsgmls-perl libslang2-dev libsm-dev libsmpeg0 libsndfile1-dev libsndio-dev
+  libsndio6.1 libsp1c2 libssh2-1 libssl-dev libssl-doc libudev-dev libunwind-dev libunwind8 libunwind8-dev
+  libuptimed0 libvorbis-dev libwayland-bin libwayland-dev libwebkitgtk-1.0-0 libwebkitgtk-1.0-common
+  libxcursor-dev libxi-dev libxinerama-dev libxkbcommon-dev libxm4 libxrandr-dev libxrender-dev libxss-dev
+  libxt-dev libxv-dev libzeitgeist-2.0-0 linux-headers-4.10.0-28 linux-headers-4.10.0-28-generic
+  linux-headers-4.4.0-109 linux-headers-4.4.0-109-generic linux-image-4.10.0-28-generic
+  linux-image-4.4.0-109-generic linux-image-extra-4.10.0-28-generic linux-image-extra-4.4.0-109-generic lldb-3.8
+  lua-lpeg makedumpfile manpages-posix manpages-posix-dev mesa-utils-extra ndiff nmap openjdk-8-jdk
+  openjdk-8-jdk-headless pkg-config python-all python-all-dev python-bs4 python-decorator python-dev
+  python-html5lib python-imaging python-lldb-3.8 python-lxml python-numpy python-pil python-pip python-pip-whl
+  python-ply python-pygame python-scipy python-scour python-six python-virtualenv python-wheel python2.7-dev
+  python3-decorator python3-dev python3-gpgme python3-numpy python3-pip python3-ply python3-scipy
+  python3-virtualenv python3-wheel python3.5-dev qt5-default qt5-qmake qtbase5-dev qtbase5-dev-tools r-base
+  r-base-core r-base-dev r-base-html r-cran-boot r-cran-class r-cran-cluster r-cran-codetools r-cran-foreign
+  r-cran-kernsmooth r-cran-lattice r-cran-mass r-cran-matrix r-cran-mgcv r-cran-nlme r-cran-nnet r-cran-rpart
+  r-cran-spatial r-cran-survival r-doc-html r-recommended screen secure-delete sgmlspl sp sqlite3 ssh sshfs
+  texlive texlive-bibtex-extra texlive-luatex texlive-math-extra tmux tree uptimed virtualenv x11proto-randr-dev
+  x11proto-render-dev x11proto-scrnsaver-dev x11proto-video-dev x11proto-xinerama-dev xmlto xsltproc
+  zeitgeist-core zlib1g-dev zsh zsh-common
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 146 not upgraded.
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make 
+gcc -c -g -Wall -Wextra geometry_test.c -o geometry_test.o
+gcc -c -g -Wall -Wextra geometry.c -o geometry.o
+gcc -g -Wall -Wextra geometry_test.o geometry.o `pkg-config --libs check` -lm -o geometry_test
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ make test
+./geometry_test.c
+./geometry_test.c: 1: ./geometry_test.c: /bin: Permission denied
+./geometry_test.c: 2: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 3: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 4: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 5: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 6: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 7: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 8: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 9: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 10: ./geometry_test.c: Makefile: not found
+./geometry_test.c: 11: ./geometry_test.c: */: not found
+./geometry_test.c: 18: ./geometry_test.c: /bin: Permission denied
+./geometry_test.c: 19: ./geometry_test.c: Syntax error: word unexpected (expecting ")")
+Makefile:34: recipe for target 'test' failed
+make: *** [test] Error 2
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ la
+elsa_velazquez_lab12  geometry.h  [0m[01;32mgeometry_test[0m    geometry_test.o  .gitignore  README.md   .travis.yml
+geometry.c            geometry.o  [01;32mgeometry_test.c[0m  [01;34m.git[0m             Makefile    .travis.ym  typescript
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ lamake test
+./geometry_test
+Running suite(s): coord_2d
+100%: Checks: 4, Failures: 0, Errors: 0
+geometry_test.c:52:P:coord_2d_eq:test_2d_eq:0: Passed
+geometry_test.c:89:P:coord_2d_dist:test_2d_dist:0: Passed
+geometry_test.c:172
