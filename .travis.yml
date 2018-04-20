@@ -2,4 +2,4 @@ language: c
 install: make dep
 script: make
 sudo: enabled
-compiler: -gcc
+compiler: gcc
