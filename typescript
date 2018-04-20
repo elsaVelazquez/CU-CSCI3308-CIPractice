@@ -312,4 +312,43 @@ Running suite(s): coord_2d
 100%: Checks: 4, Failures: 0, Errors: 0
 geometry_test.c:52:P:coord_2d_eq:test_2d_eq:0: Passed
 geometry_test.c:89:P:coord_2d_dist:test_2d_dist:0: Passed
-geometry_test.c:172
+geometry_test.c:172:P:coord_2d_midpoint:test_2d_midpoint:0: Passed
+geometry_test.c:116:P:coord_2d_negatives:test_triangle:0: Passed
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add .
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git commit -m "file"
+[master 00f5399] file
+ 2 files changed, 241 insertions(+), 1 deletion(-)
+ mode change 100644 => 100755 geometry_test.c
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add Makefile
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add geometry.h
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add geometry.c
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add geometry_test.c
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add Makefile 
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working directory clean
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git statusadd Makefile 
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add Makefile [K[K[K[K[K[K[K[K[K[K[K[K[Kstatus
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   Makefile[m
+
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git statusadd Makefile [7Pstatusadd Makefile [7Pstatusadd geometry_test.c.c[K[1P[1P[1P[1P[1P[C[1P geometry.c[1P geometry.c[1Pgeometry.c[1Peometry.c[1Pometry.c[1Pmetry.c[1Petry.c[1Ptry.c[1Pry.c[1Py.c[1P.c[1Pc[Kgit c[Kadd Makefile
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPracticeuser@cu-cs-vm:~/Dropbox/3308SoftwareDevMeths-VM/labs/lab12/CU-CSCI3308-CIPractice$ git add geometry.h
+]0;user@cu-cs-vm: ~/Dropbox/3308SoftwareDev
